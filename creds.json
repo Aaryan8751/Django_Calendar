@@ -1,0 +1,11 @@
+{
+  "web": {
+    "client_id": "835079733719-5ejfhla9d33n2g3qcbu7k5uf87jsq4s1.apps.googleusercontent.com",
+    "project_id": "confident-mix-379307",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://127.0.0.1:8000/rest/v1/calendar/redirect/"]
+  }
+}

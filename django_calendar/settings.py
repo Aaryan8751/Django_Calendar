@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'calendar_calls.apps.CalendarCallsConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
